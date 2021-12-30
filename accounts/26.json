@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "storied-destiny-336413",
+  "private_key_id": "0bff3976dc205976b902905d2698731239886be7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDV4AXcfqkL43l7\nL5C1rlY3UDm4Cf9J7TpQEWjXKJvlm6WU7GHisgKfIwwbNwa9TaGNWDrBv9uerMqY\nW+7O8Ph1QK4Q5fDS5EHgPJAYGfOd62H6GeT8E5gwUzVyo7VnN05oqMkEl7S6WI7u\nRNwDN0jCZ6ISL8Qge5Nct3ecXmyrke+jLM1R7YDiwNCo0Le+vO8H5WyrUagHqdmF\nVWM/SlQK3SALA+hc8ArF0LTwqpuCO9G7lrFY4iW7R6h2VaSI9csPqGoV4/vBVWYK\nAKQFEBeIrdN7PhF9edVuGlBywsMc8hrq351dUXciGvlInHDKq3JWQByaWlj+d7/j\nQLHtTyjRAgMBAAECggEAUNJtpJuAymtV9wVMjDurfQ+mIDQ28vrg9Gz/z38bGrOs\n6RBDFWXrs7OM2aP7ugHiMQXMfndASUBG9ziWkEFjwvuETAJ49Vkow9JfKZx1AZJ3\n3gl3DQNimbB4HDBdVvoBeW9/N2sU8u6QZN5EvjpgFocPKgw+839/eqQiYUcVjefR\nMKYzLx4DAUmNyegiBZ4ntvZqbEwqTWbvyhPjJfIgLVHbZlGYOz1LHefJaFzK1VZI\nO36q+hfZ+aSMTL/ZqrUBae5L1nzFC3PHxp6I1jxOBYvvyuN30l/Y533ewhEj9wDj\nGSUiYgOb8/xG9a366vPeK7caIzYUN/YZUxal4ERTuQKBgQD2O8YO4os8kRsfOChY\n6Uunlvg7zuK+ZZ8sc8HNE0umBkx54Hz5i8Yfa8DqTHY2IGd4XIYXwPKMeqM+zJLx\nXu4hy8WsrpH6/eqtXdi3bMBTANtUylRFkoEKhq+va9oKP1+DWqY3yEfDQolh0HA5\neHj/IlKU2gtUbsKSK3694U13XwKBgQDeW6+OxOCKFB37KtgV679UFO2XCvaWLbL3\ne5f065Vt/2q/Qw5mke2sTk9Ow6WiFAYIMFVa7JsljFKRItf9QJPos9XyAnKxUBIk\ntUUPDLujrpCYNt1StfKeYUyrp2C7Qxywo9dJBSvLJ+cmSE3IoCDIgYswHOx5Hj+N\nwS9eQgY9zwKBgQDGgZXANj6Ny2WUG4/bbejB6OGiRb1iRUa3bXLVwzJ/XCCXOLVH\n8Lj+Z74UpSO/qwv/aofn6nMfcVbdr8rer+tGb6Ki/fFN6RoiPcASz6eUwuIPTzX1\nCJDjTYWg5E/ZZxG3MYNDAUFpVuCubH2st0TEWoU83zO3E7vkXxBEP7hV/QKBgQCh\n4xrD1O6tWMwjKyQ7gXHA46O/DgpNeGQN7nvJoyMd/JFZQpbfcmsZwcHX1HVotS9X\nEulx00V5ZtpONJIQHc4R46xmEAY0tdkfxKHMvTZ3iwZW68rjBvjm+mv5pVi1vbzL\nld2NmigyNpEBvC51XK/Bix8tHkHERJN8vyOfem5U3QKBgQDelOm2aWnfEVF7qJj8\nZZLrUsXy1/eT1/oZwH8qW3r4wikPdpx+ynP0Ixr5a0yEHjeSuH3gKWLnU00dY1R3\nTs2wKfbnBKKnhJMJNetCa7+tUkCpEo2x380igj1WeRdTuocqTmIpt0fP0f4v7DcP\nRVvp0PSMIWHb4zqhfk61JwnJEw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-46qvtaftwmbh-y96sgdgjm-lnk@storied-destiny-336413.iam.gserviceaccount.com",
+  "client_id": "118250733349290898137",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-46qvtaftwmbh-y96sgdgjm-lnk%40storied-destiny-336413.iam.gserviceaccount.com"
+}
